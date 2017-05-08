@@ -1,0 +1,21 @@
+ .menu
+{
+    display:inline;
+	text-decoration: none;
+	margin:5px 40px;
+	color: white;
+	}
+	.header
+	{
+		background-color: lightblue;
+		height: 50px;
+
+	}
+	.search_area
+	{
+		margin-left: 25em;
+		background-color: lightblue;
+		color:white;
+		font-size: 2em;
+		font-family: Arial;
+	}
